@@ -3,6 +3,6 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php echo '<p>Hello AWS</p>'; ?> 
+ <?php echo '<p>Hello Kyaw MIn Htet</p>'; ?> 
  </body>
 </html>
